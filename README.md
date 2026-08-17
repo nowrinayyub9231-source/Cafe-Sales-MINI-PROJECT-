@@ -62,4 +62,4 @@ This project strengthened my skills in data cleaning, DAX measure design, and �
 ---
 
 **Author:** Nowrin | Microbiology graduate transitioning into Data Analytics
-📧 Open to Genomic Data Analyst, Clinical Analyst, and Lab Analyst roles
+📧 Open to Health care/Clinical Analyst, and Lab Analyst roles
