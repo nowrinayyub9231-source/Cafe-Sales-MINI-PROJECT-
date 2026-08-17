@@ -2,8 +2,7 @@
 
 An interactive Power BI dashboard analyzing 10,000+ cafe transactions to uncover revenue trends, product performance, and seasonal demand patterns — built as a portfolio project to demonstrate end-to-end data analysis skills.
 
-![Dashboard Screenshot](<img width="1133" height="651" alt="Dashboard-overview" src="https://github.com/user-attachments/assets/81887880-45f2-4013-9a82-bed038c51f5c" />
-)
+![Dashboard Screenshot](Dashboard-overview)
 
 
 ## 🎯 Objective
